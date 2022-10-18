@@ -16,7 +16,7 @@ Curso Sistema de Informação na [Estácio](https://estacio.br/).
 * ⚡ Gosto muito de música e livros, me dediquei ao estudo de contrabaixo durante alguns anos.
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/w-elidio?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>### Hi there 👋
+<a href="https://www.buymeacoffee.com/w-elidio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>### Hi there 👋
 
 <!--
 **w-elidio/w-elidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
