@@ -15,7 +15,7 @@ Curso Sistema de Informação na [Estácio](https://estacio.br/).
 * 🤝  Estou aberto a novas tecnologias, inclusive pretendo iniciar o estudo de Java, dentre outros.
 * ⚡ Gosto muito de música e livros, me dediquei ao estudo de contrabaixo durante alguns anos.
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/w-elidio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/w-elidio?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
