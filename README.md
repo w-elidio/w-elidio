@@ -6,7 +6,7 @@ Estudo Sistema da Informação
 Sou estudante e meu foco no momento é conseguir uma vaga de estagio e colocar o que estou aprendendo em prática, conhecer novas tecnologias, adquirir experiência e contribuir em projetos. Dessa forma conseguir resolver problemas e ajudar pessoas.
 
 
-Curso Sistema de Informação em [Estácio](https://estacio.br/).
+Curso Sistema de Informação na [Estácio](https://estacio.br/).
 
 * 🌍  Estou sediado no Rio de Janeiro, Brasil
 * ✉️  Pode contactar-me em [willianelidio19@gmail.com](mailto:willianelidio19@gmail.com)
