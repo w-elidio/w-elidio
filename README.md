@@ -1,6 +1,6 @@
 OI 👋 Meu nome é Willian
 =========================
-Estudo Sistema da Informação
+Estudo Sistema de Informação
 -----------------------------
 
 Sou estudante e meu foco no momento é conseguir uma vaga de estagio e colocar o que estou aprendendo em prática, conhecer novas tecnologias, adquirir experiência e contribuir em projetos. Dessa forma conseguir resolver problemas e ajudar pessoas.
